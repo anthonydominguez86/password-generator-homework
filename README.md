@@ -31,4 +31,4 @@ Screen shots of the assignment are available in the password-generator-homework/
 
 # Deployment URL
 
-* 
+* https://anthonydominguez86.github.io/password-generator-homework/
