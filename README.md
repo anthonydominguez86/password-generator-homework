@@ -27,7 +27,12 @@ What I took from this assignment was how hard Java can be and how many ways a si
 
 # Screenshots 
 
-Screen shots of the assignment are available in the password-generator-homework/screenshots folder.
+![generate password 4](https://user-images.githubusercontent.com/73844796/107263761-23f1c400-6a10-11eb-9290-43045f3be5c7.jpg)
+
+![generate password 5](https://user-images.githubusercontent.com/73844796/107263836-3cfa7500-6a10-11eb-95f5-b8ee82ed01a7.jpg)
+
+
+More screen shots of the assignment are available in the password-generator-homework/screenshots folder.
 
 # Deployment URL
 
